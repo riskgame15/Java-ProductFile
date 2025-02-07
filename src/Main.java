@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Mains {
+public class Main {
     public static void main(String[] args) {
         String filePath = "files/products.dat";
         ProductManager manager = new ProductManager(filePath);
